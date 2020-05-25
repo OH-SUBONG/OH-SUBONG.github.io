@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "봉's 홈페이지"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "안녕하세요"
-description              : "반갑습니다."
+name                     : ""
+description              : ""
 url                      : "https://OH-SUBONG.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "오수봉"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  bio              : "2016108273"
   location         : "Jeju"
-  email            :
+  email            : "qsd3021@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
